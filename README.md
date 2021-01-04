@@ -1,4 +1,4 @@
-# Don-t-Say-Hallo-like-a-pussy
+# Don-t-Say-Hello-like-a-pussy
 Samuel Miller Top Secrate Project
 #include <stdio.h> 
 main() { 
